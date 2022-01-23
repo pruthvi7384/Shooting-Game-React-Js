@@ -18,7 +18,7 @@ When a player wins 3 games, show the winner of the match.
 
 #### `React js`
 
-Step To Clone Repo
+## Step To Clone Repo
 
 #### 1. Create a Github account.
 #### 2. Open Command line interface in your pc
@@ -26,10 +26,10 @@ Step To Clone Repo
 #### 4. After Clone This Repo Install Alll Dependency using Enter Command in termina `npm i`.
 #### 5. After Start server using  `npm start`
 
-Site Screen Shorts 
+## Site Screen Shorts 
 -----
 
 <img src="https://github.com/pruthvi7384/Shooting-Game-React-Js/blob/master/Screenshot%20(50).png">
 
-### Thank You !!
+## Thank You !!
 
